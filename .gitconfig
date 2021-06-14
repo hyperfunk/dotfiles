@@ -3,6 +3,11 @@
 [user]
 	email = sam@rgrsn.me
 	name = Sam Rogerson
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	sts = status --short
 [hub]
 	host = github.palantir.build
 [url "git@github.palantir.build:"]
